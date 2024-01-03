@@ -1,2 +1,2 @@
 azure link : 
-https://zealous-tree-09017b410.4.azurestaticapps.net
+https://black-glacier-0cbbd9810.4.azurestaticapps.net
