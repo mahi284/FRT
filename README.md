@@ -8,7 +8,7 @@ https://black-glacier-0cbbd9810.4.azurestaticapps.net
 
 ## Drive Link : https://drive.google.com/file/d/10ub6lST4pjpIzfH3GsMpsXkTZYpT4CxM/view
 
-# Screenshot:
+# Screenshots:
 
 ## Static Web Apps
 ![image](https://github.com/mahi284/FRT/assets/154537159/98a0bbbb-99be-42fc-8cc8-55bd556a2576)
