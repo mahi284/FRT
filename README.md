@@ -19,12 +19,16 @@ https://black-glacier-0cbbd9810.4.azurestaticapps.net
 
 ![image](https://github.com/mahi284/FRT/assets/154537159/31d1bb27-83f5-43b8-9807-71acf32e6bd6)
 
-## HealthBot
+## BOT
+![image](https://github.com/mahi284/FRT/assets/154537159/ce56ad63-074c-4cb6-8ad8-50e255d93144)
+![image](https://github.com/mahi284/FRT/assets/154537159/61e4574b-a381-443d-94c9-d789097b4ab9)
+![image](https://github.com/mahi284/FRT/assets/154537159/9014eb9e-7835-4b2a-a649-25d01dbedf87)
 
-![image](https://github.com/mahi284/FRT/assets/154537159/df0f813a-86ef-4f31-8987-55ca9fb74180)
+
 
 ## Website:
 ![image](https://github.com/mahi284/FRT/assets/154537159/57f8384d-4329-48e9-9eaa-83b71d61bbe0)
+
 
 ![image](https://github.com/mahi284/FRT/assets/154537159/c9265cce-871c-4b68-b22e-dcfcc113b9e3)
 ![image](https://github.com/mahi284/FRT/assets/154537159/79411f4b-62c6-4676-8b4b-1848406858c4)
