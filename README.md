@@ -28,6 +28,7 @@ https://black-glacier-0cbbd9810.4.azurestaticapps.net
 
 ## Website:
 ![image](https://github.com/mahi284/FRT/assets/154537159/57f8384d-4329-48e9-9eaa-83b71d61bbe0)
+![image](https://github.com/mahi284/FRT/assets/154537159/d43b917f-7258-4e58-b843-99ed6b073ab0)
 
 
 ![image](https://github.com/mahi284/FRT/assets/154537159/c9265cce-871c-4b68-b22e-dcfcc113b9e3)
