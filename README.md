@@ -6,7 +6,7 @@ https://black-glacier-0cbbd9810.4.azurestaticapps.net
 
 ## BLOB StorAge Link: https://skintreat.z13.web.core.windows.net/
 
-## Drive Link : https://drive.google.com/file/d/10ub6lST4pjpIzfH3GsMpsXkTZYpT4CxM/view
+## Drive Link :https://drive.google.com/file/d/1mlMuyConkdLXvs0JAvU9LyBjjFjfD0zI/view
 
 # Screenshots:
 
