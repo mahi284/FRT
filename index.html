@@ -549,7 +549,7 @@ function hideURLbar(){ window.scrollTo(0,1); } </script>
 								<i>Message</i>
 								<textarea name="Message" placeholder=" " required=""></textarea>
 							</span>
-							<input type="submit" value="Submit Now">
+							<div id = "button"> <input type="submit" name="event" value="Submit Now" class="boton" onclick="return foo()"/></div>
 						</form>
 					</div>
 				</div>
@@ -710,6 +710,10 @@ function hideURLbar(){ window.scrollTo(0,1); } </script>
 		});
 	</script>
 	<a href="#" id="toTop" style="display: block;"> <span id="toTopHover" style="opacity: 1;"> </span></a>
+	<script> function foo() {
+         document.getElementById("button").innerHTML = "<center><b> THANKYOU FOR SUBMITTING WE WILL SEE YOU SOON<b></center>";
+        
+        return true}</script>
 
 </body>
 
