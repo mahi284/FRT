@@ -37,6 +37,14 @@ https://black-glacier-0cbbd9810.4.azurestaticapps.net
 
 
 
+## TECH STACK:
+### HTML
+### CSS
+### JAVASCRIPT
+### AI BOT
+### BLOB STORAGE
+### STATIC WEB APPS
+
 
 
 
