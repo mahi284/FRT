@@ -32,7 +32,7 @@ https://black-glacier-0cbbd9810.4.azurestaticapps.net
 
 
 ![image](https://github.com/mahi284/FRT/assets/154537159/c9265cce-871c-4b68-b22e-dcfcc113b9e3)
-![image](https://github.com/mahi284/FRT/assets/154537159/79411f4b-62c6-4676-8b4b-1848406858c4)
+
 ![image](https://github.com/mahi284/FRT/assets/154537159/995f9e87-a2a2-4b04-a236-7565afa58005)
 
 
