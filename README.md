@@ -1,7 +1,7 @@
 azure link : 
 https://black-glacier-0cbbd9810.4.azurestaticapps.net
 
-## WEb CHat SecreT Key: bv0eFPah31A.k7V-jOWZqUIW3BgeFFTHb5FtgHZgkzWzathurwLNHFw
+## WEb CHat SecreT Key: NznrfVhhy78.q_Uj2ic3lGeOTQ6lyXanPKW4x6a-vBiJ2zf0Pq4Ueqg
 
 
 ## BLOB StorAge Link: https://skintreat.z13.web.core.windows.net/
